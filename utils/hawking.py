@@ -1,4 +1,5 @@
 import numpy as np
+from animations.spacetime_grid import create_spacetime_grid
 
 import astropy.constants as const
 import astropy.units as u
